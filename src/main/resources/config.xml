@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<generador id="1">
+    <elementos>
+        <elemento id="1">
+            <filename>writer.write('Test')</filename>
+            <logic>src/main/resources/dataTest.js</logic>
+            <template>src/main/resources/plantillaTest.js</template>
+        </elemento>
+    </elementos>
+    <end>testEnd</end>
+    <init>test</init>
+</generador>
